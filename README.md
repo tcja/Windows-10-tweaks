@@ -7,7 +7,7 @@ Just lunch the **"ALL IN ONE Executor.bat"** and it will run all files but ***"D
 
 **Disable_Action_Center.reg**
 
-Disables action center
+Disables action center in the notification center
 
 **OneDrive_Uninstaller_v1.2.bat**
 
