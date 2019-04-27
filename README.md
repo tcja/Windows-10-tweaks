@@ -5,6 +5,10 @@ Just lunch the **"ALL IN ONE Executor.bat"** and it will run all files but ***"D
 
  
 
+**darkmodetoggle**
+
+Toggles between dark mode and default theme (just click on the appropriate .bat file for the desired action)
+
 **Disable_Action_Center.reg**
 
 Disables action center in the notification center
