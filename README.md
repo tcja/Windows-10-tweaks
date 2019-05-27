@@ -32,3 +32,5 @@ Actives window's old photo viewer
 **RemoveXboxAppsBloat.bat**
 
 Removes the Xbox Apps bloatware
+
+***Use at your own risk!!!***
