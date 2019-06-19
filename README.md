@@ -31,7 +31,7 @@ Disables Prefetch and Superfetch services which are useless on a SSD based OS
 
 **Activate Windows Old Photo Viewer on Windows 10.reg**
 
-Actives window's old photo viewer
+Activates window's old photo viewer
 
 **RemoveXboxAppsBloat.bat**
 
