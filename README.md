@@ -8,6 +8,7 @@ Some scripts are not of my own so all the credits may go to their respective aut
 # Getting started
 Just lunch the **"ALL IN ONE Executor.bat"** and it will run all files but ***"Disable_Action_Center.reg"*** and ***"Activate Windows Old Photo Viewer on Windows 10"*** (if you want them aswell just add them to the **"ALL IN ONE Executor.bat"** file)
 
+# Script description
 
 **darkmodetoggle**
 
