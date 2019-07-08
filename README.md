@@ -1,4 +1,4 @@
-# Windows-10-tweaks
+# Windows 10 tweak scripts
 This repo contains multiple scripts to optimize windows 10
 
 # Credits
