@@ -1,10 +1,6 @@
 # Windows 10 tweak scripts
 This repo contains multiple scripts to optimize windows 10
 
-# Credits
-Some scripts are not of my own so all the credits may go to their respective author
-
-
 # Getting started
 Just lunch the **"ALL IN ONE Executor.bat"** and it will run all files but ***"Disable_Action_Center.reg"*** and ***"Activate Windows Old Photo Viewer on Windows 10"*** (if you want them aswell just add them to the **"ALL IN ONE Executor.bat"** file)
 
@@ -43,3 +39,6 @@ Activates window's old photo viewer
 Removes the Xbox Apps bloatware
 
 ***Use at your own risk!!!***
+
+# Credits
+Some scripts are not of my own so all the credits may go to their respective author
