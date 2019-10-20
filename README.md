@@ -2,7 +2,7 @@
 This repo contains multiple scripts to optimize windows 10
 
 # Getting started
-Just lunch the **"ALL IN ONE Executor.bat"** and it will run all files but ***"Disable_Action_Center.reg"*** and ***"Activate Windows Old Photo Viewer on Windows 10"*** (if you want them aswell just add them to the **"ALL IN ONE Executor.bat"** file)
+Just lunch the **"ALL_IN_ONE_Executor.bat"** and it will run all files but ***"Disable_Action_Center.reg"*** and ***"Activate Windows Old Photo Viewer on Windows 10"*** (if you want them aswell just add them to the file)
 
 # Script description
 
@@ -30,7 +30,7 @@ By default, Windows reserves 20% of the bandwidth for its specific services limi
 
 Disables Prefetch and Superfetch services which are useless on a SSD based OS
 
-**Activate Windows Old Photo Viewer on Windows 10.reg**
+**Activate_Windows_Old_Photo_Viewer_on_Windows 10.reg**
 
 Activates window's old photo viewer
 
