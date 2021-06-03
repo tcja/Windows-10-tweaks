@@ -36,7 +36,7 @@ By default, Windows reserves 20% of the bandwidth for its specific services limi
 
 **SSD_Optimizations.reg**
 
-Disables Prefetch and Superfetch services which are useless on a SSD based OS
+Disables Prefetch and Superfetch services which are useless on an SSD based OS
 
 **Activate_Windows_Old_Photo_Viewer_on_Windows 10.reg**
 
