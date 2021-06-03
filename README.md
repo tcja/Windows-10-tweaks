@@ -8,7 +8,7 @@ Just lunch the **"ALL_IN_ONE_Executor.bat"** and it will run all files but ***"D
 
 **darkmodetoggle**
 
-Toggles between dark mode and default theme (just click on the appropriate .bat file for the desired action)
+Toggles between dark mode and default theme (click on the appropriate .bat file for the desired action)
 
 **other_scripts**
 
