@@ -22,6 +22,14 @@ Disables action center in the notification center
 
 Completely removes Microsoft OneDrive annoying bloatware
 
+**Disable_News_and_Interests_on_taskbar_feature_for_all_users.reg**
+
+Disables the news and interests widget on the taskbar, this has been forcefully installed since update Windows 10 21H1
+
+**Enable_News_and_Interests_on_taskbar_feature_for_all_users.reg**
+
+Enables the news and interests widget on the taskbar
+
 **QoS_Limiter.reg**
 
 By default, Windows reserves 20% of the bandwidth for its specific services limiting thus your bandwidth to achieve its full potential, this reg tweak fixes that issue by removing that default limit
