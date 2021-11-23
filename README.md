@@ -14,6 +14,10 @@ Toggles between dark mode and default theme (click on the appropriate .bat file 
 
 Bunch of alternate scripts for optimizing WIN 10 and removing annoying bloatware
 
+**Add_Copy_path_to_context_menu.reg**
+
+Adds the "Copy full path" to the context menu so no need to press shift anymore to get it
+
 **Disable_Action_Center.reg**
 
 Disables action center in the notification center
